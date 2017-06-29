@@ -1,22 +1,23 @@
 ---
-title: Our Coffee
+title: Blockchain Labs
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+image: /img/rawpixel-com-268376.jpg
+heading: Blockchain Labs
+description: Blockchain Labs description
 intro:
   blurbs: []
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What is Blockchain?
+  description: >-
+    A blockchain is a public ledger of all Bitcoin transactions that have ever
+    been executed. It is constantly growing as ‘completed’ blocks are added to
+    it with a new set of recordings. The blocks are added to the blockchain in a
+    linear, chronological order. Each node (computer connected to the Bitcoin
+    network using a client that performs the task of validating and relaying
+    transactions) gets a copy of the blockchain, which gets downloaded
+    automatically upon joining the Bitcoin network. The blockchain has complete
+    information about the addresses and their balances right from the genesis
+    block to the most recently completed block.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -43,5 +44,6 @@ pricing:
     month. Contact us about more details and payment info.
   plans: []
 ---
+
 
 
